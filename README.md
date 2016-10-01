@@ -6,8 +6,11 @@ You'll need python 3.5
 Run the script from the command line.
 
 The option are : 
+
 [1] File Payload generate
+
 [2] String Generate
+
 [3] PoC Payload
 
 * First option load a file a generate the output in a file "output.txt"
