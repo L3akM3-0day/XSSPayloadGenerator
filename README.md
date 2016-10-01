@@ -13,7 +13,7 @@ The option are :
 
 [3] PoC Payload
 
-* First option load a file a generate the output in a file "output.txt"
+* First option load a file and generate the output in a file "output.txt"
 * Second option use the string you provide to generate an xss payload
 * Generate a OpenBugBounty PoC string 
 
