@@ -5,7 +5,7 @@ XSSPayloadGenerator is a python script that will generate a base64 encoded paylo
 You'll need python 3.5
 Run the script from the command line.
 
-> 
+```python
      __   __ _____ _____   _____    __     ___      ____          _____     _____ ______ _   _ ______ _____         _______ ____  _____
      \ \ / // ____/ ____| |  __ \ /\\ \   / / |    / __ \   /\   |  __ \   / ____|  ____| \ | |  ____|  __ \     /\|__   __/ __ \|  __ \
       \ V /| (___| (___   | |__) /  \\ \_/ /| |   | |  | | /  \  | |  | | | |  __| |__  |  \| | |__  | |__) |   /  \  | | | |  | | |__) |
@@ -17,4 +17,5 @@ Run the script from the command line.
 [2] String Generate
 [3] PoC Payload
 XSS PAYLOAD>
+```
 
